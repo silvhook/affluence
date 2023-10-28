@@ -1,2 +1,2 @@
 # blitz-bot
-a discord utility, check our wiki
+a discord utility, check the wiki
